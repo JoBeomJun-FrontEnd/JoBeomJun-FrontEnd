@@ -24,9 +24,9 @@
 <br/>
 <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=FFFFFF" />
-
+</div>
 <br/>
-
+<div align="center">
 🔨 Tools 🔨
 <br/>
 <br/>
@@ -38,9 +38,9 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/vscode-20232a?style=for-the-badge&logo=vscode&logoColor=61DAFB" />
-
+</div>
 <br/>
-
+<div align="center">
 📌 Contact 📌
 <br/>
 <br/>
