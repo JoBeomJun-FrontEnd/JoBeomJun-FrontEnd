@@ -10,7 +10,7 @@
 
 ✨ Tech Stack ✨
 <br/>
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=20232a" />
 <br/>
 <img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
