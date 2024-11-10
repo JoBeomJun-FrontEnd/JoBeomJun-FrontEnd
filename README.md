@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=20232a" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=reactrouter&logoColor=FFFFFF" />
 <br/>
-<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=FFFFFF" />
+<br/>
+<img src="https://img.shields.io/badge/vscode-20232a?style=for-the-badge&logo=reactrouter&logoColor=61DAFB" />
 
 <br/>
 
