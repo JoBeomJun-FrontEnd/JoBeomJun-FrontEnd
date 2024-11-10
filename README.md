@@ -12,4 +12,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br/>
 <img src="https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=#F7DF1E.svg" />
+<img src="https://img.shields.io/badge/typeScript-20232a?style=for-the-badge&logo=typescript&logoColor=#3178C6.svg" />
