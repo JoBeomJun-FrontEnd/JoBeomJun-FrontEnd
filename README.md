@@ -27,7 +27,7 @@
 
 🔨 Tools 🔨
 <br/>
-<img src="https://img.shields.io/badge/reactrouter-F05032?style=for-the-badge&logo=reactrouter&logoColor=#ff0000.svg" />
+<img src="https://img.shields.io/badge/reactrouter-F05032?style=for-the-badge&logo=reactrouter" />
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
 <br/>
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
