@@ -9,4 +9,5 @@
 <br/>
 
 ✨ Tech Stack ✨
+<br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/React">
