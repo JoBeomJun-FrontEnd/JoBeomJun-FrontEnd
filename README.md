@@ -10,6 +10,7 @@
 
 ✨ Tech Stack ✨
 <br/>
+<br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 <br/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />
@@ -27,6 +28,7 @@
 
 🔨 Tools 🔨
 <br/>
+<br/>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <br/>
@@ -39,6 +41,7 @@
 <br/>
 
 📌 Contact 📌
+<br/>
 <br/>
 <a href="https://velog.io/@oreasvv/posts" target="_blank">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF" />
