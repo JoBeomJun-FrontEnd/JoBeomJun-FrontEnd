@@ -9,9 +9,8 @@
 <br/>
 
 ✨ Tech Stack ✨
-
 <br/>
-
+<br/>
 <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br/>
 <img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=#F7DF1E.svg" />
@@ -28,7 +27,7 @@
 <br/>
 
 🔨 Tools 🔨
-
+<br/>
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
 <br/>
