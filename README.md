@@ -31,10 +31,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <br/>
 <img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=20232a" />
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=reactrouter&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/vscode-20232a?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/vscode-20232a?style=for-the-badge&logo=vscode&logoColor=61DAFB" />
 
 <br/>
 
