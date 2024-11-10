@@ -10,18 +10,18 @@
 
 ✨ Tech Stack ✨
 <br/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=20232a" />
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 <br/>
-<img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 <br/>
-<img src="https://img.shields.io/badge/html5-20232a?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/tailwind+css-20232a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/vanillaextract+css-20232a?style=for-the-badge&logo=css3&logoColor=ECD53F" />
-<img src="https://img.shields.io/badge/css3-20232a?style=for-the-badge&logo=css3&logoColor=#1572B6.svg" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/tailwind+css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/vanillaextract+css-ECD53F?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
 <br/>
-<img src="https://img.shields.io/badge/tanstackquery-20232a?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
-<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=CA4245" />
+<img src="https://img.shields.io/badge/tanstackquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=FFFFFF" />
 
 <br/>
 
