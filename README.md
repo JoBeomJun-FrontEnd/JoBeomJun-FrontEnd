@@ -49,13 +49,9 @@
 </a>
 <img src="https://img.shields.io/badge/oreasv3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </div>
-
-
-
 <br/>
-
-
-
+<br/>
+<br/>
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobeomjun-frontend&show_icons=true&theme=radical)
