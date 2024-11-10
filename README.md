@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">조범준<br/>프론트엔드 개발자</h1>
+  <h1 align="center">조범준<br/>주니어 프론트엔드 개발자</h1>
 </p>
 
 <p align="center">
