@@ -27,7 +27,7 @@
 
 🔨 Tools 🔨
 <br/>
-<img src="https://img.shields.io/badge/git-61DAFB?style=for-the-badge&logo=git&logoColor=61DAFB.svg" />
+<img src="https://img.shields.io/badge/git-61DAFB?style=for-the-badge&logo=git&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
 <br/>
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
