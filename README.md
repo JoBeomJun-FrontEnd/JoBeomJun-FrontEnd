@@ -13,11 +13,11 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
 <br/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 <br/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/tailwind+css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/vanillaextractcss-ECD53F?style=for-the-badge&logo=vanillaextractcss&logoColor=20232a" />
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
