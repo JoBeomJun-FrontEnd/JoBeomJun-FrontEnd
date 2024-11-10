@@ -11,5 +11,5 @@
 ✨ Tech Stack ✨
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=reactOS&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
