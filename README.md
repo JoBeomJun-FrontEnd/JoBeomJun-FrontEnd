@@ -40,5 +40,7 @@
 
 📌 Contact 📌
 <br/>
+<a href="https://velog.io/@oreasvv/posts" target="_blank">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF" />
+</a>
 <img src="https://img.shields.io/badge/oreasv3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
