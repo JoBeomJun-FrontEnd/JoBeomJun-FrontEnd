@@ -9,8 +9,9 @@
 <br/>
 
 ✨ Tech Stack ✨
+
 <br/>
-<br/>
+
 <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br/>
 <img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=#F7DF1E.svg" />
@@ -20,5 +21,25 @@
 <img src="https://img.shields.io/badge/tailwind+css-20232a?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4.svg" />
 <img src="https://img.shields.io/badge/vanillaextract+css-20232a?style=for-the-badge&logo=css3&logoColor=#ECD53F.svg" />
 <img src="https://img.shields.io/badge/css3-20232a?style=for-the-badge&logo=css3&logoColor=#1572B6.svg" />
+<br/>
 <img src="https://img.shields.io/badge/tanstackquery-20232a?style=for-the-badge&logo=reactquery&logoColor=#FF4154.svg" />
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
+
+<br/>
+
+🔨 Tools 🔨
+
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
+<br/>
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
+<br/>
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
+
+<br/>
+
+📌 Contact 📌
+
+<img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
 <img src="https://img.shields.io/badge/reactrouter-20232a?style=for-the-badge&logo=reactrouter&logoColor=#CA4245.svg" />
